@@ -94,10 +94,10 @@
             this.checkBox2.Location = new System.Drawing.Point(35, 230);
             this.checkBox2.Name = "checkBox2";
             this.checkBox2.Size = new System.Drawing.Size(317, 20);
-            this.checkBox2.TabIndex = 1;
+            this.checkBox2.TabIndex = 2;
             this.checkBox2.Text = "\"СУПЕРМЕГАКНОПКА\" поглинає КОЛІР ТЛА";
             this.checkBox2.UseVisualStyleBackColor = true;
-            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox2_CheckedChanged);
             // 
             // checkBox3
             // 
@@ -105,10 +105,10 @@
             this.checkBox3.Location = new System.Drawing.Point(35, 256);
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(334, 20);
-            this.checkBox3.TabIndex = 1;
+            this.checkBox3.TabIndex = 3;
             this.checkBox3.Text = "\"СУПЕРМЕГАКНОПКА\" поглинає ПРИВІТ СВІТ!";
             this.checkBox3.UseVisualStyleBackColor = true;
-            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox3_CheckedChanged);
             // 
             // Form1
             // 

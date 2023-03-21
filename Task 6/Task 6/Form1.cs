@@ -58,7 +58,10 @@ namespace Task_6
             {
                 button4.Click -= button1_Click;
             }
+        }
 
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
             if (checkBox2.Checked)
             {
 
@@ -68,7 +71,10 @@ namespace Task_6
             {
                 button4.Click -= button2_Click;
             }
-
+        }
+         
+        private void checkBox3_CheckedChanged(object sender, EventArgs e)
+        {
             if (checkBox3.Checked)
             {
 
