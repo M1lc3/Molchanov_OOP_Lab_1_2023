@@ -1,0 +1,14 @@
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\bin\Debug\netcoreapp3.1\Task 2.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 2\Task 2\obj\Debug\netcoreapp3.1\Task 2.genruntimeconfig.cache

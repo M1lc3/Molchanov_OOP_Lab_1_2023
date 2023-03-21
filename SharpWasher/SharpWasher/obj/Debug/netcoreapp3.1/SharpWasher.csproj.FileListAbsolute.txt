@@ -1,0 +1,27 @@
+C:\Molchanov KC-212\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.exe
+C:\Molchanov KC-212\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.deps.json
+C:\Molchanov KC-212\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.json
+C:\Molchanov KC-212\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.dev.json
+C:\Molchanov KC-212\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.dll
+C:\Molchanov KC-212\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\Molchanov KC-212\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csprojAssemblyReference.cache
+C:\Molchanov KC-212\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfoInputs.cache
+C:\Molchanov KC-212\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfo.cs
+C:\Molchanov KC-212\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.CoreCompileInputs.cache
+C:\Molchanov KC-212\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.dll
+C:\Molchanov KC-212\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\Molchanov KC-212\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.genruntimeconfig.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.deps.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.dev.json
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfoInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfo.cs
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.dll
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.genruntimeconfig.cache

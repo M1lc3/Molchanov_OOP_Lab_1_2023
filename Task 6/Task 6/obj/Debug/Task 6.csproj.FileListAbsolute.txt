@@ -1,0 +1,11 @@
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\bin\Debug\Task 6.exe.config
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\bin\Debug\Task 6.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\bin\Debug\Task 6.pdb
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\obj\Debug\Task 6.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\obj\Debug\Task 6.csproj.SuggestedBindingRedirects.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\obj\Debug\Task_6.Form1.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\obj\Debug\Task_6.Properties.Resources.resources
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\obj\Debug\Task 6.csproj.GenerateResource.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\obj\Debug\Task 6.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\obj\Debug\Task 6.exe
+C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 6\Task 6\obj\Debug\Task 6.pdb
