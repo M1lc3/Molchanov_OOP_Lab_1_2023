@@ -7,7 +7,7 @@ namespace SharpWasher
     class Program
     {
         static void Task1()
-        {
+        { 
             int amount = 10;
             Garage garage = new Garage(amount);
             foreach (Car car in garage.Cars)

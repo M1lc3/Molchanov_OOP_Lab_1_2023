@@ -25,7 +25,7 @@ namespace Task_5
                     string[] data = Console.ReadLine().Trim().Split();
                     int[] array = new int[data.Length];
                     for (int i = 0; i < data.Length; i++)
-                    {
+                    { 
                         int num = int.Parse(data[i]);
                         array[i] = num;
                     }

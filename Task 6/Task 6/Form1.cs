@@ -46,7 +46,7 @@ namespace Task_6
         {
             MessageBox.Show("Я супермегакнопка,\nі цього мене не позбавиш!");
         }
-
+         
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
             if (checkBox1.Checked)

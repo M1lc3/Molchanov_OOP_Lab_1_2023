@@ -30,11 +30,6 @@ namespace Task_2
 
     internal class Program
     {
-        ////static void PrintHelloWorld()
-        ////{
-        ////    Console.WriteLine("Funny words");
-        ////}
-
         static void Main(string[] args)
         {
             while (true)

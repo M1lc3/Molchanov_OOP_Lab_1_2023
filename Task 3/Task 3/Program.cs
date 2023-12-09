@@ -9,7 +9,7 @@ namespace Task_3
         static void Main(string[] args)
         {
             List<int> array = new List<int>  { 1, 2, 3, 7, 6, 9, 14, 25, 36, 49 };
-            var  by3 = array.Where(x => x % 3 == 0); // 
+            var by3 = array.Where(x => x % 3 == 0); // 
             string answer = "Numbers divisible by 3: ";
             foreach (int number in by3)
             {
@@ -21,7 +21,7 @@ namespace Task_3
             {
                 answer = answer + number.ToString() + " ";
             }
-            Console.WriteLine(answer);
+            Console.WriteLine(answer); 
             Console.ReadKey();
 
         }

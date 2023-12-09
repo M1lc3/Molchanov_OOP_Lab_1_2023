@@ -12,3 +12,17 @@ C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Ла�
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.dll
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.pdb
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.genruntimeconfig.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.exe
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.deps.json
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.json
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.runtimeconfig.dev.json
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.dll
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\bin\Debug\netcoreapp3.1\Task 3.pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.AssemblyReference.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfoInputs.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.AssemblyInfo.cs
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.csproj.CoreCompileInputs.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.dll
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\Task 3\Task 3\obj\Debug\netcoreapp3.1\Task 3.genruntimeconfig.cache

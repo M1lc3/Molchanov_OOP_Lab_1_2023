@@ -14,7 +14,7 @@ namespace SharpWasher
         public string Mark { get; }
         public int CarId { get; }
         public bool DirtyStatus { set; get; }
-
+         
         public Car()
         {
             Random rnd = new Random();

@@ -25,3 +25,17 @@ C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Ла�
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.dll
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.pdb
 C:\!Dizox\Лаби\ЧНУ\2023 рік 2 сесестр 2 курсу\ООП\Лаба 1\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.genruntimeconfig.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.exe
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.deps.json
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.json
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.runtimeconfig.dev.json
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.dll
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\bin\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.AssemblyReference.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfoInputs.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.AssemblyInfo.cs
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.csproj.CoreCompileInputs.cache
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.dll
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.pdb
+C:\!Dizox\Git\Repositories\Molchanov_OOP_Lab_1_2023\SharpWasher\SharpWasher\obj\Debug\netcoreapp3.1\SharpWasher.genruntimeconfig.cache
